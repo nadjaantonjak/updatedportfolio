@@ -1,3 +1,4 @@
+![thumbnail_IMG_7850](https://user-images.githubusercontent.com/79078061/116091103-df5cf700-a6e7-11eb-881e-d3f64ef14ca0.jpg)
 # updatedportfolio
 
 Updating my portfolio page so its up to date for people to see when they visit.
